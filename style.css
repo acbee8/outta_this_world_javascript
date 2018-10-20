@@ -1,0 +1,42 @@
+body{
+    background: url('sighting.png');
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+h1{
+    color: blue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 100%;
+    text-align: center;
+    padding-left: 10%;
+}
+
+h4{
+    color: rgb(50, 175, 50);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 100%;
+    text-align: center;
+    padding-left: 10%;
+    
+}
+
+h6{
+    color: black;
+    font-family: verdana;
+    font-size: 50%;
+    font-style: italic;
+    text-align: center;
+    padding-left: 10%;
+}
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2}
